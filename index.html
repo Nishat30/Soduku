@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUDOKU</title>
+    <!-- Your custom CSS file -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Inter Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="main-body">
+    <div id="game-container" class="game-container">
+        <h1 class="game-title">Sudoku Game</h1>
+        
+        <div class="controls-section">
+            <div class="button-row">
+                <button id="new-game-button" class="control-button new-game-btn">New Game</button>
+                <button id="clear-board-button" class="control-button clear-board-btn">Clear Board</button>
+            </div>
+            <div id="difficulty-selector" class="difficulty-selector">
+                <button class="difficulty-button" data-difficulty="easy">Easy</button>
+                <button class="difficulty-button selected-difficulty" data-difficulty="medium">Medium</button>
+                <button class="difficulty-button" data-difficulty="hard">Hard</button>
+            </div>
+            <div id="errors" class="error-display">Errors: 0</div>
+        </div>
+
+        <div id="board" class="sudoku-board"></div>
+
+        <br>
+
+        <div id="digits" class="digits-panel"></div>
+    </div>
+
+    <div id="game-over-modal" class="game-over-modal">
+        <div id="game-over-content" class="game-over-content">
+            <p id="game-over-message" class="game-over-message">Game Over!</p>
+            <p class="game-over-text">You've exceeded 15 errors.(don't cry)</p>
+            <button id="play-again-button" class="control-button play-again-btn">Play Again</button>
+        </div>
+    </div>
+
+    <footer class="main-footer">
+    <p>&copy; 2024 <strong>Made by Nishat</strong></p>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <!-- Your game logic -->
+    <script src="index.js"></script>
+</body>
+</html>
