@@ -1,6 +1,6 @@
 # 🔢 Sudoku Solver & Game 🎮
 
-**Sudoku Solver** is a web-based interactive Sudoku game that also features an AI-powered solver. Users can play Sudoku puzzles, get hints, or solve the full grid instantly.
+**Sudoku Solver** is a web-based interactive Sudoku game. Users can play Sudoku puzzles.
 
 ## 🧩 Features
 
@@ -13,14 +13,13 @@
 
 ## 🚀 Live Demo
 
-[Click Here to Try Sudoku Solver]((https://nishat30.github.io/Soduku/))
+[Click Here to Try Sudoku Solver](https://nishat30.github.io/Soduku/)
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript  
-  *(or React / Next.js if you're using it)*
 - **Logic**: Backtracking Algorithm
-- **Styling**: Tailwind CSS / Bootstrap / Custom CSS
+- **Styling**: Custom CSS
 
 ## 📦 How to Run Locally
 
