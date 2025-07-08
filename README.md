@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-[Click Here to Try Sudoku Solver](https://your-deployed-link.com)
+[Click Here to Try Sudoku Solver]((https://nishat30.github.io/Soduku/))
 
 ## 🛠️ Tech Stack
 
