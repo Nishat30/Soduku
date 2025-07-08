@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-[Click Here to Try Sudoku Solver](https://your-deployed-link.com)
+[Click Here to Try Sudoku Solver]((https://nishat30.github.io/Soduku/))
 
 ## 🛠️ Tech Stack
 
@@ -26,14 +26,12 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/sudoku-solver.git
+git clone https://github.com/Nishat30/Soduku.git
 
 # Navigate to the project folder
-cd sudoku-solver
+cd Soduku
 
 # If using plain HTML/CSS/JS:
 Just open index.html in your browser
 
-# If using React:
-npm install
-npm run dev
+#go live
