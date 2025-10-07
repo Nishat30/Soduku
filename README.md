@@ -1,4 +1,4 @@
-# 🔢 Sudoku Solver & Game 🎮
+# 🔢 Sudoku Solver Game 🎮
 
 **Sudoku Solver** is a web-based interactive Sudoku game. Users can play Sudoku puzzles.
 
