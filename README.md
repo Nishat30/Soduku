@@ -1,4 +1,4 @@
-# 🔢 Sudoku Solver & Game 🎮
+# 🔢 Sudoku Solver Game 🎮
 
 **Sudoku Solver** is a web-based interactive Sudoku game that also features an AI-powered solver. Users can play Sudoku puzzles, get hints, or solve the full grid instantly.
 
